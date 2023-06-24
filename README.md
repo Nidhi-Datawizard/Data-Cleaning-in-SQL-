@@ -1,5 +1,7 @@
 # Data-Cleaning-in-SQL
 
+**The project aims to identify and fix inaccuracies, inconsistencies, and irrelevant data within the dataset.**
+
 Here is a concise summary of a SQL data cleaning project:
 
 Data cleaning is an essential step in any data analysis project, involving identifying and correcting inaccuracies or inconsistencies in a dataset.
@@ -26,7 +28,7 @@ LEAST and GREATEST functions are helpful for finding the minimum and maximum val
 
 DISTINCT is used to eliminate duplicate records from a dataset, ensuring data integrity and accuracy during analysis.
 
-Real-world data cleaning projects in SQL may involve a combination of these techniques and functions, tailored to specific data quality issues and requirements. The examples provided in the sources mentioned can be used as a reference for implementing data cleaning tasks in SQL.
+Real-world data cleaning projects in SQL may involve a combination of these techniques and functions, tailored to specific data quality issues and requirements. The examples provided in the sources mentioned can be used as a reference for implementing data-cleaning tasks in SQL.
 
 
 
